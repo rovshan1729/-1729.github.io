@@ -1,0 +1,49 @@
+body
+{
+    background-color: #626662;
+}
+h1
+{
+    color: #10c21e;
+    font-size: 3em;
+    font-family: 'Anton', sans-serif;
+}
+p
+{
+    color: #111;
+    font-size: 1em;
+}
+h3
+{
+    color: #10c21e;
+    font-size: 1.8em;
+    font-family: 'Anton', sans-serif;
+}
+.ul1
+{
+    list-style-type: disc;
+}
+.ul2
+{
+    list-style-type: square;
+}
+hr
+{
+    border-color: #464a46;
+}
+b
+{
+    color: yellow;
+}
+a
+{
+    color: red;
+}
+li
+{
+    color: #111;
+}
+em
+{
+    color: #0856a3;
+}
